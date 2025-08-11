@@ -1,0 +1,13 @@
+# general
+.env
+*.pyc
+__pycache__/
+*.sqlite3
+.DS_Store
+node_modules/
+.next/
+frontend/.next/
+frontend/node_modules/
+backend/app.db
+.idea/
+.vscode/
